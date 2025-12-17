@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Actividad DOM</title>
+</head>
+<body>
+
+    <div style="border: 1px solid black; padding: 20px; margin-bottom: 20px;">
+        <h3>1. Repetir</h3>
+        <input type="text" id="inputPalabra" placeholder="Palabra">
+        <input type="number" id="inputVeces" placeholder="Veces">
+        <button type="button" onclick="repetirPalabra()">REPETIR!</button>
+        <div id="resultado1"></div>
+    </div>
+
+    <div style="border: 1px solid black; padding: 20px; margin-bottom: 20px;">
+        <h3>2. Cambiar Color</h3>
+        <input type="color" id="inputColor">
+        <button type="button" onclick="cambiarColor()">APLICAR!</button>
+        <p id="textoLorem" style="border: 1px solid #ccc; padding: 10px;">
+            Lorem ipsum dolor sit amet...
+        </p>
+    </div>
+
+    <div style="border: 1px solid black; padding: 20px; margin-bottom: 20px;">
+        <h3>3. Calcular</h3>
+        <input type="number" id="num1" value="5">
+        <input type="number" id="num2" value="10">
+        <button type="button" onclick="calcular()">CALCULAR!</button>
+        <div id="resultado3"></div>
+    </div>
+
+    <div style="border: 1px solid black; padding: 20px; margin-bottom: 20px;">
+        <h3>4. Invertir</h3>
+        <input type="text" id="textoInvertir" value="Holanda que talca">
+        <button type="button" onclick="invertir()">INVERTIR!</button>
+        <div id="resultado4"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

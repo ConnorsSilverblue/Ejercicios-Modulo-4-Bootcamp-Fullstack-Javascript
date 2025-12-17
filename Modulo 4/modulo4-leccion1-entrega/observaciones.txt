@@ -1,0 +1,8 @@
+1. Diferencia entre Objeto JS y JSON:
+Un objeto en JavaScript es una estructura de código viva que puede tener funciones (métodos), mientras que JSON es solo un formato de texto (string) usado para guardar o enviar datos, y requiere comillas dobles en sus claves.
+
+2. Ventajas de Clases y Herencia:
+Permiten reutilizar código. En lugar de repetir propiedades en cada objeto, creas una plantilla base (Padre) y las demás (Hijas) heredan sus características, haciendo el código más ordenado y fácil de mantener.
+
+3. Importancia de JSON:
+Es el estándar universal para que el servidor (Backend) y el navegador (Frontend) se comuniquen. Es ligero, fácil de leer para humanos y máquinas, y funciona en cualquier lenguaje de programación.
