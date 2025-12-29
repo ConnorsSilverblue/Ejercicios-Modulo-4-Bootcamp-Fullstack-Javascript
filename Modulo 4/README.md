@@ -33,6 +33,12 @@ La última lección, donde trabajé con funciones que reciben otras funciones:
 - **Temporizador:** Una suma que te hace esperar 5 segundos intencionalmente antes de dar el resultado.
 - **Sumas Sucesivas:** Un cálculo que va sumando acumulativamente y decide si darte un mensaje de éxito o de error según el tamaño del número.
 
+### Lección 5: Consumo de APIs (Fetch)
+Conecté la aplicación con datos reales de internet usando la API de Studio Ghibli.
+- **Fetch API:** Usé `fetch` para obtener datos externos (JSON).
+- **Async/Await:** Manejé la asincronía para esperar la respuesta del servidor.
+- **Optimización:** Implementé una lógica para guardar los datos localmente tras la primera carga, evitando consumo innecesario de internet.
+- **Consola:** Visualización de datos estructurados (títulos, directores, IDs) directamente en la consola del navegador.
 ---
 
 ## 🛠️ Tecnologías
