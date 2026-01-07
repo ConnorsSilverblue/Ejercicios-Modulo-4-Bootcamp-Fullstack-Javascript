@@ -61,4 +61,4 @@ El trabajo final donde integré todo lo aprendido (HTML + CSS + JS + DOM + APIs)
 Descarga los archivos, abre el `index.html` de la lección que quieras revisar en tu navegador.
 
 
-*Hecho por Constanza Alegría.* 
+*Hecho por Constanza Alegría - https://github.com/ConnorsSilverblue* 
